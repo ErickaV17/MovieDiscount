@@ -37,10 +37,10 @@ public class MovieDiscount {
         	// print cost if they are not part of one of the age groups 
         else { 
         	if (coupon == true) {
-        		System.out.println("Your ticket costs $12.50.");
+        		System.out.println("Your ticket costs $12.5.");
         	}
         	else {
-        		System.out.println("Your ticket costs $14.50.");
+        		System.out.println("Your ticket costs $14.5.");
         	}
         		
         	
